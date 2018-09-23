@@ -10,6 +10,7 @@ Since VaronFi currently only emulates DNAS, the only supported title right now i
 
 - All-Star Baseball 2005
 - Area 51
+- Blitz: The League
 - Call of Duty: Finest Hour
 - Call of Duty 2: Big Red One
 - Call of Duty 3
@@ -33,6 +34,7 @@ Since VaronFi currently only emulates DNAS, the only supported title right now i
 - Midnight Club 3: DUB Edition
 - Midnight Club 3: DUB Edition Remix
 - Mortal Kombat: Armageddon
+- Mortal Kombat: Deception
 - MotoGP 4
 - MTX: Mototrax
 - MX vs ATX Unleashed
@@ -63,6 +65,8 @@ Since VaronFi currently only emulates DNAS, the only supported title right now i
 - Trivial Pursuit: Unhinged
 - Urban Chaos: Riot Response
 - Warhammer 40000: Fire Warrior 
+- WWE SmackDown! VS RAW^
+- X-Men Legends II: Rise of Apocalypse
 
 ^ Will require a modified ISO.
 
